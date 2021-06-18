@@ -6,6 +6,9 @@ I have a problem-solving mindset and I see challenges as an opportunity to grow 
 * React.JS
 * TypeScript
 * Javascript
+* Apollo Client
+* NextJS
+* Keystone
 * GraphQl
 * Redux
 * HTML5
