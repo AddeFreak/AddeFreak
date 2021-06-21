@@ -4,8 +4,8 @@ I have a problem-solving mindset and I see challenges as an opportunity to grow 
 
 ## Languages and tools
 * React.JS
-* TypeScript
 * Javascript
+* TypeScript
 * Apollo Client
 * NextJS
 * Keystone
