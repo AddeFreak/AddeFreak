@@ -19,7 +19,6 @@ I have a problem-solving mindset and I see challenges as an opportunity to grow 
 * Git
 * Figma
 
-- 🌱 I’m currently learning fullstack by building an e-commerce website with React and graphQL. 
 
 
 <!---
